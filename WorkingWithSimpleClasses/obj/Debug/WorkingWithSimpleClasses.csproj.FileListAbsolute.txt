@@ -1,0 +1,6 @@
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithSimpleClasses\WorkingWithSimpleClasses\bin\Debug\WorkingWithSimpleClasses.exe.config
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithSimpleClasses\WorkingWithSimpleClasses\bin\Debug\WorkingWithSimpleClasses.exe
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithSimpleClasses\WorkingWithSimpleClasses\bin\Debug\WorkingWithSimpleClasses.pdb
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithSimpleClasses\WorkingWithSimpleClasses\obj\Debug\WorkingWithSimpleClasses.csprojResolveAssemblyReference.cache
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithSimpleClasses\WorkingWithSimpleClasses\obj\Debug\WorkingWithSimpleClasses.exe
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithSimpleClasses\WorkingWithSimpleClasses\obj\Debug\WorkingWithSimpleClasses.pdb
